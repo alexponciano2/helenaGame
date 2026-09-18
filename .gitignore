@@ -1,0 +1,48 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build outputs
+/[Bb]uild/
+/[Bb]uilds/
+/[Ee]xportedObj/
+*.apk
+*.aab
+*.unitypackage
+
+# IDE and editor generated files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash and diagnostics artifacts
+sysinfo.txt
+crashlytics-build.properties
+
+# Local MCP endpoint: regenerated per computer/editor connection
+/.codex/config.toml
+
+# Keep the Unity source of truth versioned:
+# Assets/, Packages/, ProjectSettings/, AGENTS.md, .codex/skills/, .kitwright/
